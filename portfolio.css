@@ -1,0 +1,1902 @@
+/*--------HOME HTML-----------------------*/
+
+#lion1
+{
+	position: absolute;
+	left: 4px;
+	top: 3px;
+	width: 130px;
+	height: 130px;
+}
+#body1
+{
+background-image: url("15.jpg");
+
+background-position: center;
+  		background-repeat: no-repeat;
+  		background-size: cover;
+  		width: 100px;
+  		height: 460px;
+
+
+}
+#hello
+{
+	position: absolute;
+	left: 370px;
+	top: 225px;
+	color: #FFFAFA;
+	padding: 0px;
+	margin: 0px;
+	font-size: 40px;
+	font-family: 'Rajdhani';font-weight: normal;
+}
+#luis
+{
+	position: absolute;
+	left: 370px;
+	top: 290px;
+	color: #FFFAFA;
+	padding: 0px;
+	margin: 0px;
+	font-size: 40px;
+	font-family: 'Rajdhani';
+	
+}
+.square
+{
+	position: absolute;
+	 height: 50px;
+ 	 width: 180px;
+ 	 background-color: #4422EE;
+ 	 left:370px;
+ 	 top:489px;
+ 	 text-decoration-color: #FFFAFA; 
+}
+.btn {
+	position: absolute;
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  left: 390px;
+  top: 490px;
+  float: right;
+}
+.square .downloadcv
+{
+	
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	font-style-color:#FFFAFA;
+	
+	color: #FFFAFA;
+	
+}
+#m11
+{
+	position: absolute;
+	left: 360px;
+	top: 350px;
+	color: #FFFAFA;
+	padding: 0px;
+	margin: 0px;
+	font-size: 40px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+
+#nombre
+{
+	
+	position: absolute;
+	left: 20px;
+	font-size: 15px;
+	padding: 5px;
+	top: 2px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+ul {
+  list-style-type: none;
+ line-height: 30px;
+  margin: 0;
+  padding: 0px;
+  width: 20%;
+  background-color: #696969 ;
+  position: fixed;
+  height: 100%;
+  top: 0;
+  left: 0;
+  text-decoration: none;
+  font-family: 'Rajdhani';
+ 
+}
+li a {
+	
+  display: block;
+  color: #FFFAFA	;
+  padding: 8px 16px 8px;
+  font-family: Rajdhani;	
+  top: 0px;
+text-decoration: none;
+text-decoration: none;
+
+}
+
+li a.active {
+  background-color: #00008b;
+  font-family: Roboto;
+  color: white;
+  text-decoration: none;
+  width: 1px;
+  transition: widht
+}
+
+li a:hover:not(.active) {
+  background-color: #00008b ;
+  font-family: Roboto
+  color: #FFFAFA	;
+  text-decoration: none;
+}
+
+#copy
+{
+	position: absolute;
+	font-size: 14px;
+	top: 560px;
+	left: 10px;
+}
+#reserved
+{
+	position: absolute;
+	top: 577px;
+	left: 10px;
+}
+#luisdown
+{
+	position: absolute;
+	top: 577px;
+	left: 130px;
+	color: blue;
+}
+/*  -------------------------ABOUT ME---------------------------  */
+hr.new4 {
+	position: absolute;
+	size: 90px;
+  border: 1px solid black;
+  top: 50px;
+  width: 70%;
+  opacity: 1;
+}
+#h2
+{
+	position: absolute;
+	left: 585px;
+	top: 30px;
+	font-family: 'Rajdhani';
+}
+.box
+{
+	border:2px;
+	 border-style:solid;	  border-color: blue;
+	   padding: 1em; 
+	   width: 100px;
+	   position: absolute;
+	   left:550px; 
+	   background-color: white; 
+	   height: 2px;
+}
+
+img {
+	position: absolute;
+  float: left;
+  top: 130px;
+}
+#img1
+{
+	width:150px;height:200px;margin-right:15px;
+}
+#name
+{
+	width:40px;
+	height: 40px;
+	position: absolute;
+	left: 250px;
+	top: 130px;
+}
+#nameh4
+{
+	position: absolute;
+	left: 300px;
+	top: 110px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#img2
+{
+
+
+	width:170px;height:200px;margin-right:15px;
+
+}
+#phone
+{
+	width:40px;
+	height: 40px;
+	position: absolute;
+	left: 250px;
+	top: 190px;
+}
+#phoneh4
+{
+	position: absolute;
+	left: 310px;
+	top: 170px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#address
+{
+	width:40px;
+	height: 40px;
+	position: absolute;
+	left: 250px;
+	top: 250px;
+}
+#addressh4
+{
+	position: absolute;
+	left: 300px;
+	top: 225px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#email
+{
+	width:40px;
+	height: 40px;
+	position: absolute;
+	left: 700px;
+	top: 130px;
+}
+#emailh4
+{
+	position: absolute;
+	left: 750px;
+	top: 120px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#calender
+{
+	width:40px;
+	height: 40px;
+	position: absolute;
+	left: 700px;
+	top: 190px;
+}
+#calenderh4
+{
+	position: absolute;
+	left: 750px;
+	top: 170px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#flag
+{
+	width:40px;
+	height: 40px;
+	position: absolute;
+	left: 700px;
+	top: 250px;
+}
+#flagh4
+{
+	position: absolute;
+	left: 750px;
+	top: 230px;
+font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#social
+{
+position: absolute;
+left: 250px;
+top: 290px;
+font-family: agency fb;
+
+}
+#fb
+{
+	position: absolute;
+left: 340px;
+top: 312px;
+width:22px;
+height: 22px;
+
+}
+#twitter
+{
+	position: absolute;
+left: 370px;
+top: 312px;
+width:22px;
+height: 22px;
+
+}
+#link
+{
+	position: absolute;
+left: 400px;
+top: 310px;
+width:22px;
+height: 22px;
+
+}
+#developer
+{
+	position: absolute;
+	top: 330px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+	font-size: 20px;
+}
+#para
+{
+	position: absolute;
+	top: 330px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+	left:250px;
+	font-size: 16px;
+	padding: 1px;
+	margin-right: 9px;
+	margin-top: 9px;
+}
+#sign
+{
+	position: absolute;
+	top: 550px;
+	left: 250px;
+	width: 10%;
+	height: 10%;
+}
+/*------------------HIRE ME---------------------*/
+
+hr.new4 {
+	position: absolute;
+	size: 100px;
+  border: 1px solid black;
+  top: 50px;
+  width: 100%;
+  opacity: 1;
+}
+#hire
+{
+	position: absolute;
+	left: 555px;
+	top: 20px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+
+	
+}
+.box11111
+{
+	border:2px;
+	 border-style:solid;	  border-color: blue;
+	   padding: 1em; 
+	   width: 100px;
+	   position: absolute;
+	   left:530px; 
+	   background-color: white; 
+	   height: 2px;
+}
+#car1
+{
+	position: absolute;
+	width: 200px;
+	left: 250px;
+	top: 130px;
+}
+
+#car2
+{
+	position: absolute;
+	width: 200px;
+	left: 550px;
+	top: 130px;
+}
+
+#car3
+{
+	position: absolute;
+	width: 200px;
+	left: 860px;
+	top: 130px;
+}
+#mny1
+{
+	position: absolute;
+	left: 330px;
+	top: 270px;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: 'Rajdhani';
+}
+#mny2
+{
+	position: absolute;
+	left: 630px;
+	top: 280px;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: 'Rajdhani';
+}
+#mny3
+{
+	position: absolute;
+	left: 940px;
+	top: 270px;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: 'Rajdhani';
+}
+#head1
+{
+	position: absolute;
+	left: 250px;
+	top: 320px;
+	font-weight: normal;
+	font-family: 'Rajdhani';
+
+}
+#head2
+{
+	position: absolute;
+	left: 250px;
+	top: 360px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#head3
+{
+	position: absolute;
+	left: 250px;
+	top: 410px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#head4
+{
+	position: absolute;
+	left: 250px;
+	top: 480px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch21
+{
+	position: absolute;
+	left: 550px;
+	top: 320px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch22
+{
+	position: absolute;
+	left: 550px;
+	top: 360px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch23
+{
+	position: absolute;
+	left: 550px;
+	top: 400px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch24
+{
+	position: absolute;
+	left: 550px;
+	top: 440px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch25
+{
+	position: absolute;
+	left: 550px;
+	top: 480px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch31
+{
+	position: absolute;
+	left: 860px;
+	top: 320px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch32
+{
+	position: absolute;
+	left: 860px;
+	top: 360px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch33
+{
+	position: absolute;
+	left: 860px;
+	top: 400px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch34
+{
+	position: absolute;
+	left: 860px;
+	top: 440px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#ch35
+{
+	position: absolute;
+	left: 860px;
+	top: 480px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+.contact1
+{
+	position: absolute;
+	 height: 50px;
+ 	 width: 180px;
+ 	 background-color: #00008b;
+ 	 left:250px;
+ 	 top:490px;
+ 	 text-decoration-color: #FFFAFA; 
+ 	 font-family: 'Rajdhani';
+}
+.contact1 .para
+{
+	
+	position: absolute;
+	left: 15px;
+	font-style-color:#FFFAFA;
+	
+	color: #FFFAFA;
+	font-family: 'Rajdhani';
+}
+
+.contact2
+{
+	position: absolute;
+	 height: 50px;
+ 	 width: 180px;
+ 	 background-color: #00008b;
+ 	 left:550px;
+ 	 top:550px;
+ 	 font-family: 'Rajdhani';
+ 	 text-decoration-color: #FFFAFA; 
+}
+.contact2 .para
+{
+	
+	position: absolute;
+	left: 15px;
+	font-style-color:#FFFAFA;
+	font-family: 'Rajdhani';
+	color: #FFFAFA;
+	
+}
+.contact3
+{
+	position: absolute;
+	 height: 50px;
+ 	 width: 180px;
+ 	 background-color: #00008b;
+ 	 font-family: 'Rajdhani';
+ 	 left:860px;
+ 	 top:490px;
+ 	 text-decoration-color: #FFFAFA; 
+}
+.contact3 .para
+{
+	font-family: 'Rajdhani';
+	
+	position: absolute;
+	left: 15px;
+	font-style-color:#FFFAFA;
+	
+	color: #FFFAFA;
+	
+}
+/*--------------------------RESUME--------------------------------------------*/
+
+hr.new41 {
+	position: absolute;
+	size: 100px;
+  border: 1px solid black;
+  top: 50px;
+  left: 558;
+  width: 100%;
+  opacity: 1;
+}
+#resume
+{
+	position: absolute;
+	left: 648px;
+	top: 30px;
+	font-family: monospace;
+	font-weight: normal;
+}
+.boxforesume
+{
+	border:2px;
+	 border-style:solid;	  border-color: blue;
+	   padding: 1em; 
+	   width: 100px;
+	   position: absolute;
+	   left:618px; 
+	   background-color: white; 
+	   height: 2px;
+}
+.box2
+{
+	border:2px;
+	 border-style:solid;	  border-color: #1569c7;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:270px; 
+	   top: 130px;
+	   background-color: #1569c7; 
+	   height: 40px;
+} #diazapp
+{
+	padding-left: 14px;
+	margin: 6px;
+	color: white;
+	font-size: 18px;
+	font-family: 'Rajdhani';
+}
+#delta
+{
+	position: absolute;
+	font-size: 25px;
+	left:625px; 
+	   top: 110px;
+	   transform: rotate(95deg);
+	   color: #1569c7;
+font-family: 'Rajdhani';
+}
+.intern
+{
+
+	border:2px;
+	 border-style:solid;	  border-color: grey;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	 font-family: 'Rajdhani';
+	   width: 350px;
+	   position: absolute;
+	   left:270px; 
+	   top: 178px;
+	   background-color: #e5e1e1; 
+	   height: 60px;
+
+}
+#intern
+{
+	position: absolute;
+	top: 0px;
+	font-family: 'Rajdhani';
+	padding-bottom: 20px;
+	font-size: 17px;
+}
+.box3
+{
+	border:2px;
+	 border-style:solid;	  border-color: #1569c7;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 font-family: 'Rajdhani';
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:270px; 
+	   top: 310px;
+	   background-color: #1569c7; 
+	   height: 40px;
+}
+#polarfood
+{
+	padding-left: 14px;
+	font-family: 'Rajdhani';
+	margin: 6px;
+	color: white;
+	font-size: 18px;
+}
+#delta3
+{
+	position: absolute;
+	font-size: 25px;
+	left:625px; 
+	   top: 290px;
+	   transform: rotate(95deg);
+	   color: #1569c7;
+	   font-family: 'Rajdhani';
+}
+.polar
+{
+font-family: 'Rajdhani';
+	border:2px;
+	 border-style:solid;	  border-color: grey;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:270px; 
+	   top: 355px;
+	   background-color: #e5e1e1; 
+	   height: 60px;
+
+}
+#polar
+{
+	position: absolute;
+	font-family: 'Rajdhani';
+	top: 3px;
+	padding-bottom: 20px;
+	font-size: 17px;
+}
+.box4
+{
+	border:2px;
+	 border-style:solid;	  border-color: #1569c7;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   font-family: 'Rajdhani';
+	   left:270px; 
+	   top: 480px;
+	   background-color: #1569c7; 
+	   height: 40px;
+}
+#govt1
+{
+	padding-left: 14px;
+	margin: 6px;
+	font-size: 18px;
+	color: white;
+font-family: 'Rajdhani';
+}
+#delta4
+{
+	position: absolute;
+	font-size: 25px;
+	left:625px; 
+	   top: 450px;
+	   transform: rotate(95deg);
+	   color: #1569c7;
+	   font-family: 'Rajdhani';
+}
+.govt
+{
+
+	border:2px;
+	 border-style:solid;	  border-color: grey;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:270px; 
+	   font-family: 'Rajdhani';
+	   top: 526px;
+	   background-color: #e5e1e1; 
+	   height: 60px;
+
+}
+#govt
+{
+	position: absolute;
+	top: 3px;
+	font-family: 'Rajdhani';
+	padding-bottom: 20px;
+	font-size: 17px;
+}
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #dcdcdc;
+  height: 80%;
+  bottom: 0;
+  left: 51%;
+  margin-left: -3px;
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
+.box5
+{
+	border:2px;
+	 border-style:solid;	  border-color: #1569c7;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:750px; 
+	   top: 250px;
+	   background-color: #1569c7; 
+	   height: 40px;
+	   
+} #nestle
+{
+	padding-left: 14px;
+	margin: 6px;
+	font-family: 'Rajdhani';
+		font-size: 18px;
+	color: white;
+
+}
+#delta5
+{
+	position: absolute;
+	font-size: 25px;
+	left:735px; 
+	   top: 230px;
+	   transform: rotate(-95deg);
+	   color:#1569c7;
+}
+.nestle
+{
+
+	border:2px;
+	 border-style:solid;	
+	 font-family: 'Rajdhani';  border-color: grey;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:750px; 
+	   top: 290px;
+	   background-color: #e5e1e1; 
+	   height: 60px;
+	   font-size: 17px;
+
+}
+.box6
+{
+	border:2px;
+	 border-style:solid;	  border-color: #1569c7;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	   width: 350px;
+	   position: absolute;
+	   left:750px; 
+	   top: 410px;
+	   background-color: #1569c7; 
+	   height: 40px;
+	   font-size: 
+}
+#nestleintern1
+{
+	padding-left: 14px;
+	margin: 6px;
+	color: white;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+	font-size: 20px;
+	 
+	
+}
+#delta6
+{
+	position: absolute;
+	font-size: 25px;
+	left:740px; 
+	   top:390px;
+	   transform: rotate(-95deg);
+	   color: #1569c7;
+}
+.nestleintern
+{
+
+	border:2px;
+	 border-style:solid;	  border-color: grey;
+	 font-weight: normal;
+	 margin-top: 1px;
+	 padding: 2px;
+	 font-family: 'Rajdhani';
+	   width: 350px;
+	   position: absolute;
+	   left:750px; 
+	   top: 455px;
+	   background-color: #e5e1e1; 
+	   height: 60px;
+	   font-size: 10px;
+	   font-weight: normal;
+	   
+
+}
+#nestleintern
+{
+	position: absolute;
+	top: 3px;
+	font-family: 'Rajdhani';
+	padding-left: 15px;
+	padding-bottom: 20px;
+	font-size: 17px;
+	   
+}
+#year
+{
+	position: absolute;
+	left: 640px;
+	top: 125px;
+	color: blue;
+}
+#year1
+{
+	position: absolute;
+	left: 665px;
+	top: 245px;
+	color: blue;
+}
+
+
+/*-----------------SKILL----------------------------------------------------*/
+
+hr.new4skills {
+	position: absolute;
+	size: 100px;
+  border: 1px solid black;
+  top: 50px;
+  width: 100%;
+  opacity: 1;
+}
+#transfer
+{	
+	position: absolute;
+	top:150px;
+	left: 750px;
+	font-family: courier new;
+}
+#h2skills
+{
+	position: absolute;
+	left: 595px;
+	top: 30px;
+	font-family: monospace;
+}
+.wrapper {
+				width: 400px;
+			}
+			
+			.progress-bar {
+				width: 40%;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill {
+				display: block;
+				height: 22px;
+				background-color: #FF4500;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+			}
+		#h5
+		{
+			position: absolute;
+			left: 100px;
+			top: 0px;
+		}	
+		.boxskills
+{
+	border:2px;
+	 border-style:solid;	  border-color: blue;
+	   padding: 1em; 
+	   width: 100px;
+	   position: absolute;
+	   left:550px; 
+	   background-color: white; 
+	   height: 2px;
+}
+#marketable
+{	
+	position: absolute;
+	top:150px;
+	left: 50px;
+	font-family: courier new;
+}
+.wrapper {
+				width: 400px;
+
+			}
+					.progress-bar {
+				position: absolute;
+				left: 50px;
+				top: 200px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: #0000FF;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+		
+		#web
+		{
+			position: absolute;
+			top:5px;
+			width:15px;
+	
+		}
+		.progress-bar-fill-h5
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+		#mobile
+		{
+			position: absolute;
+			width: 20px;
+			height: 20px;
+			left: 0px;
+			top: 0px;
+
+		}
+		.progress-bar-fill-h5-2
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+			.progress-bar2 {
+				position: absolute;
+				left: 50px;
+				top: 250px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+
+			.progress-bar-fill2 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: #037d50;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+					.progress-bar3 {
+				position: absolute;
+				left: 50px;
+				top: 310px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill3 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: #3BB9FF;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+		
+		#photography
+		{
+			position: absolute;
+			top:5px;
+			width:15px;
+	
+		}
+		.progress-bar-fill-h5-3
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+
+					.progress-bar4 {
+				position: absolute;
+				left: 50px;
+				top: 360px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill4 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: 		#FF8C00;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+		
+		#server
+		{
+			position: absolute;
+			top:5px;
+			width:15px;
+	
+		}
+		.progress-bar-fill-h5-4
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+			.progress-bar5 {
+				position: absolute;
+				left: 750px;
+				top: 200px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill5 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: #0000FF;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+		
+		#communication
+		{
+			position: absolute;
+			top:5px;
+			width:15px;
+	
+		}
+		.progress-bar-fill-h5-5
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+#teamwork
+		{
+			position: absolute;
+			width: 20px;
+			height: 20px;
+			left: 0px;
+			top: 0px;
+		}
+		.progress-bar-fill-h5-6
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+			.progress-bar6 {
+				position: absolute;
+				left: 750px;
+				top: 250px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+
+			.progress-bar-fill6 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: #037d50;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+
+			#leadership
+		{
+			position: absolute;
+			top:5px;
+			width:15px;
+	
+		}
+		.progress-bar-fill-h5-7
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+
+					.progress-bar7 {
+				position: absolute;
+				left: 750px;
+				top: 310px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill7 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: 	#3BB9FF;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+
+				.progress-bar8 {
+				position: absolute;
+				left: 750px;
+				top: 360px;
+				width: 40%;
+				height: 20px;
+				background-color: #e0e0e0;
+				padding: 3px;
+				border-radius: 1px;
+				box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+				
+			}
+			
+			.progress-bar-fill8 {
+				width: 40%;
+				position: absolute;
+				left: 2px;
+				top: 0px;
+				display: block;
+				height: 24px;
+				background-color: 		#FF8C00;
+				border-radius: 3px;
+				transition: width 500ms ease-in-out;
+				color: white;
+			}
+		
+		#time
+		{
+			position: absolute;
+			top:5px;
+			width:15px;
+	
+		}
+		.progress-bar-fill-h5-8
+		{
+			position: absolute;
+			left: 515px;
+			top: -20px;
+			color: black;
+		}
+
+		#h3
+		{
+			text-align: center;
+			position: absolute;
+			top: 390px;
+			left: 480px;
+		}
+		/*-----------REFERENCES--------PORTFOLIO------*/
+
+
+		hr.new4 {
+	position: absolute;
+	size: 100px;
+  border: 1px solid black;
+  top: 50px;
+  width: 100%;
+  opacity: 1;
+}#h2
+{
+	position: absolute;
+	left: 575px;
+	top: 30px;
+	font-family: monospace;
+}
+.box
+{
+	border:2px;
+	 border-style:solid;	  border-color: blue;
+	   padding: 1em; 
+	   width: 100px;
+	   position: absolute;
+	   left:550px; 
+	   background-color: white; 
+	   height: 2px;
+}
+
+#joe
+{
+	position: absolute;
+	left: 310px;
+	top: -19px;
+
+	
+}
+.jsquare1 {
+	position: absolute;
+	left: 210px;
+	top: 140px;
+  height: 210px;
+  width: 260px;
+ 
+  border-style: ridge;
+  border-width: 2px;
+  z-index: -1;
+}#R1
+{
+	text-align: center;
+}
+#R11
+{
+	position: absolute;
+	
+font-weight: normal;
+top: 20px;
+left: 50px;
+
+}#R111
+{
+	font-weight: normal;
+	font-size: 15px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+#rosy
+{
+	position: absolute;
+	left: 420px;
+	top: -160px;
+	
+	
+}
+.rsquare2 {
+	position: absolute;
+	left: 310px;
+	top: 0px;
+  height: 210px;
+  width: 260px;
+ 
+  border-style: ridge;
+  border-width: 2px;
+  z-index: -1;
+}
+#R12
+{
+	position: absolute;
+	
+font-weight: normal;
+top: 20px;
+left: 70px;
+
+
+}
+#R13
+{
+	position: absolute;
+	
+font-weight: normal;
+top: 20px;
+left: 70px;
+
+}.ysquare3 {
+	position: absolute;
+	left: 630px;
+	top: 0px;
+  height: 210px;
+  width: 260px;
+ 
+  border-style: ridge;
+  border-width: 2px;
+  z-index: -1;
+}#yury
+{
+	position: absolute;
+	left: 740px;
+	top: -160px;
+	
+	
+
+}
+#kyss
+{
+	position: absolute;
+	left: 105px;
+	top: 84px;
+	
+	
+}#R14{
+	position: absolute;
+	
+font-weight: normal;
+top: 20px;
+left: 50px;
+
+}.ksquare4 {
+	position: absolute;
+	left: 0px;
+	top: 240px;
+  height: 210px;
+  width: 260px;
+ 
+  border-style: ridge;
+  border-width: 2px;
+  z-index: -1;
+}
+.csquare5 {
+	position: absolute;
+	left: 300px;
+	top: 240px;
+  height: 210px;
+  width: 260px;
+ 
+  border-style: ridge;
+  border-width: 2px;
+}#R15{
+	position: absolute;
+	
+font-weight: normal;
+top: 20px;
+left: 70px;
+
+}#carhil
+{
+	position: absolute;
+	left: 400px;
+	top: 84px;
+	
+	
+}
+#leo
+{
+	position: absolute;
+	left: 740px;
+	top: 83px;
+	
+	
+}.msquare6 {
+	position: absolute;
+	left: 620px;
+	top: 240px;
+  height: 210px;
+  width: 260px;
+ 
+  border-style: ridge;
+  border-width: 2px;
+}
+#R16{
+	position: absolute;
+	
+font-weight: normal;
+top: 20px;
+left: 20px;
+
+}
+
+
+/*----------------SIGN UP-----------------------------*/
+
+.form_mainsignup{
+	padding-left: 2%;
+	margin-left: 30%;
+	margin-top: 1%;
+	width: 20%;
+}
+
+#close
+{
+	position: absolute;
+	left: 730px;
+	color: black;
+	background-color: #dcdcdc;
+}
+#save
+{
+	position: absolute;
+	left: 790px;
+	color: white;
+	background-color: #0041c2;
+}
+#signupbody{
+	font-family: 'Rajdhani';
+}
+#signupborder
+{
+	 background-color: white;
+  width: 300px;
+  border: 1px ridge green;
+  padding: 50px;
+  margin: 10px;
+}
+#checkin
+{
+	position: absolute;
+	top: 0px;
+	left: 460px;
+}
+
+/*-------------LOGIN --------------------------------*/
+
+.form_main{
+	padding-left: 2%;
+	margin-left: 30%;
+	margin-top: 5%;
+	width: 20%;
+}
+
+#button{
+	float: right;
+}
+
+#button button{
+	color: white;
+	background-color: black;
+}
+#login
+{
+	 background-color: white;
+  width: 300px;
+  border: 1px ridge green;
+  padding: 50px;
+  margin: 20px;
+  z-index: -1;
+}
+#closelogin
+{
+position: absolute;
+left: 720px;
+	color: black;
+	background-color: #dcdcdc;
+}
+#loginheading
+{
+	position: absolute;
+	top: 45px;
+	left: 460px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+#getlogin
+{
+	position: absolute;
+	left: 780px;
+	color: white;
+	background-color: blue;
+}
+#login1
+{
+	position: absolute;
+	left: 460px;
+	width: 400px;
+	top: 100px;
+}
+#login2
+{
+	position: absolute;
+width: 400px;
+left: 460px;
+top: 270px;
+}
+#X
+{
+	font-weight: normal;
+	position: absolute;
+	left: 830px;
+	top: 55px;
+	font-family: 'Rajdhani';
+	font-weight: normal;
+}
+
+/*----------------SKILLS--------------------*/
+
+
+
+#svg circle {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 1s linear;
+  stroke:#666 ;
+  stroke-width: 1em;
+}
+#svg #bar {
+  stroke: #008000;
+}
+#cont {
+  display: block;
+  left: 229px;
+  top: 410px;
+  height: 200px;
+  width: 200px;
+  margin: 2em auto;
+  box-shadow: 0 0 1em black;
+  border-radius: 100%;
+  position: absolute;
+}
+#cont:after {
+  position: absolute;
+  text-align: center;
+  display: block;
+  height: 160px;
+  width: 160px;
+  left: 50%;
+  top: 50%;
+  content: attr(data-pct)"%";
+  margin-top: -80px;
+  margin-left: -80px;
+  border-radius: 100%;
+  line-height: 160px;
+  font-size: 2em;
+
+}
+
+
+/*3 CIRCU*/
+
+
+
+#svg2 circle {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 1s linear;
+  stroke: #666;
+  stroke-width: 1em;
+}
+#svg2 #bar2 {
+  stroke: #008000;
+}
+#cont2 {
+  display: block;
+ left: 720px;
+ top: 410px;
+  height: 200px;
+  width: 200px;
+  margin: 2em auto;
+  box-shadow: 0 0 1em black;
+  border-radius: 100%;
+  position: absolute;
+}
+#cont2:after {
+  position: absolute;
+  text-align: center;
+  display: block;
+  height: 160px;
+  width: 160px;
+  left: 50%;
+  top: 50%;
+  box-shadow: inset 0 0 1em black;
+  content: attr(data-pct)"%";
+  margin-top: -80px;
+  margin-left: -80px;
+  border-radius: 100%;
+  line-height: 160px;
+  font-size: 2em;
+
+}
+
+
+
+
+/* Make things perty */
+
+
+/* 2nd circular */
+
+
+
+#svg1 circle {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 1s linear;
+  stroke: #666;
+  stroke-width: 1em;
+}
+#svg1 #bar1 {
+  stroke: #008000;
+}
+#cont1 {
+  display: block;
+ left: 480px;
+ top: 410px;
+  height: 200px;
+  width: 200px;
+  margin: 2em auto;
+  box-shadow: 0 0 1em black;
+  border-radius: 100%;
+  position: absolute;
+}
+#cont1:after {
+  position: absolute;
+  text-align: center;
+  display: block;
+  height: 160px;
+  width: 160px;
+  left: 50%;
+  top: 50%;
+  box-shadow: inset 0 0 1em black;
+  content: attr(data-pct)"%";
+  margin-top: -80px;
+  margin-left: -80px;
+  border-radius: 100%;
+  line-height: 160px;
+  font-size: 2em;
+
+}
+
+/*----------4TH ----*/
+
+
+
+
+#svg3 circle {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 1s linear;
+  stroke: #666;
+  stroke-width: 1em;
+}
+#svg3 #bar3 {
+  stroke: #008000;
+}
+#cont3 {
+  display: block;
+ left: 960px;
+ top: 410px;
+  height: 200px;
+  width: 200px;
+  margin: 2em auto;
+  box-shadow: 0 0 1em black;
+  border-radius: 100%;
+  position: absolute;
+}
+#cont3:after {
+  position: absolute;
+  text-align: center;
+  display: block;
+  height: 160px;
+  width: 160px;
+  left: 50%;
+  top: 50%;
+  box-shadow: inset 0 0 1em black;
+  content: attr(data-pct)"%";
+  margin-top: -80px;
+  margin-left: -80px;
+  border-radius: 100%;
+  line-height: 160px;
+  font-size: 2em;
+
+}
+#spanish
+{
+	position: absolute;
+	left: 70px;
+	font-weight: normal;
+	font-family: 'Rajdhani';
+}
+#english
+{
+	font-weight: normal;
+position: absolute;
+font-family: 'Rajdhani';
+	left: 70px;	
+}
+
+#Italian
+{
+	font-weight: normal;
+	font-family: 'Rajdhani';
+	position: absolute;
+	left: 70px;
+}
+#japanese
+{
+	font-weight: normal;
+	font-family: 'Rajdhani';
+	position: absolute;
+	left: 70px;
+}
+
+
+/* Make things perty */
+
+
+/* Make things perty */
+
+
+
+
+
+/* Make things perty */
